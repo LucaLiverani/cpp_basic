@@ -28,15 +28,15 @@ This project demonstrates how to compile and run C++ code on Windows.
 2. Navigate to the directory containing your C++ source file.
 3. Compile the code using the following command:
     ```
-    g++ filename.cpp -o filename
+    g++ test.cpp -o test
     ```
-4. check if filename.exe has been created using the command:
+4. check if test.exe has been created using the command:
     ```
     dir
     ```
 5. Run the compiled program:
     ```
-    ./filename.exe
+    ./test.exe
     ```
 
 ## Run the Code with an IDE
